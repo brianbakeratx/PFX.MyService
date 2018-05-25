@@ -1,0 +1,13 @@
+<Project>
+  <PropertyGroup>
+    <PackageId>PFX.MyService</PackageId>
+    <Title>PFX.MyService</Title>
+    <Authors>Mediware</Authors>
+    <Owners>Mediware</Owners>
+    <PackageVersion>0.0.0.999</PackageVersion>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright $year$ (c) Mediware</Copyright>
+    <Description>$PFX.MyService</Description>
+    <PackageTags></PackageTags>
+  </PropertyGroup>
+</Project>
